@@ -1,0 +1,5 @@
+Method,Price,Std_Error,Time_sec
+Standard MC,10.45,0.15,1.2
+Antithetic Variates,10.43,0.08,1.3
+Control Variates,10.46,0.09,1.5
+Importance Sampling,10.44,0.11,1.4
